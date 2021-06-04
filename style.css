@@ -1,0 +1,31 @@
+tr,th,td,table {
+    border: 1px solid black;
+}
+
+body{
+    margin: 20px;
+}
+th, td {
+    padding: 10px;
+}
+table{
+    border-spacing: 10px;
+}
+
+.afis{
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+table,th,td .clas{
+    border-top: 2px solid red;
+}
+
+th{
+
+    font-size: 20px;
+}
